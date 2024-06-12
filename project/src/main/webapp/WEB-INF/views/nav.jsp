@@ -49,7 +49,7 @@ nav {
     padding: 0 2vw;
 }
 .nav-menu ul li a {
-    font-size: 80%;
+    font-size: 84%;
     font-weight: bold;
 }
 .nav-proflie-text {
